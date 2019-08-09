@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwitterCLone</string>
+    <string name="LoginScreenHeader">התחברות</string>
+    <string name="SignUpEmail">אימייל</string>
+    <string name="SignUpFullName">שם מלא</string>
+    <string name="SignUpPass">סיסמה</string>
+    <string name="SignUpScreenHeader">הרשמה / התחברות</string>
+    <string name="back4app_app_id" translatable="false">XfzDPelYfbmApzk56Vhx8o0q2SJYoPXRwvXyOEiz</string>
+    <string name="back4app_client_key" translatable="false">YcdwTguxX3wm8DYgXWQTZXLmXU71WLUBx6SZMi6a</string>
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="btnLLogin">התחבר</string>
+    <string name="btnLSignUp">משתמש חדש - הרשם</string>
+    <string name="btnSLogin">משתמש קיים? התחבר!</string>
+    <string name="btnSSignUp">הרשם!</string>
+    <string name="emailHint">כתובת אימייל אמיתית בבקשה</string>
+    <string name="nameHint">שם פרטי + שם משפחה</string>
+    <string name="passHint">לפחות 6 תווים באנגלית, אותיות גדולות וקטנות ומספרים</string>
+    <string name="TwittBtnTxt">צייץ!</string>
+    <string name="SendTwittHint">יש לך מה לומר?</string>
+</resources>

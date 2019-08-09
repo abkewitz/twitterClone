@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TwitterClone</string>
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id" translatable="false">XfzDPelYfbmApzk56Vhx8o0q2SJYoPXRwvXyOEiz</string>
+    <string name="back4app_client_key" translatable="false">YcdwTguxX3wm8DYgXWQTZXLmXU71WLUBx6SZMi6a</string>
+    <string name="btnSLogin">Already a user ? Login</string>
+    <string name="btnLLogin">Login</string>
+    <string name="passHint">At least 6 characters containing digits, lowercase and uppercase letters</string>
+    <string name="btnSSignUp">Sign up!</string>
+    <string name="btnLSignUp">New user - Sign up</string>
+    <string name="emailHint">Valid email please</string>
+    <string name="nameHint">First and last name please</string>
+    <string name="SignUpFullName">Full name</string>
+    <string name="SignUpEmail">Email</string>
+    <string name="SignUpPass">Password</string>
+    <string name="SignUpScreenHeader">Sign up / Login</string>
+    <string name="LoginScreenHeader">Login</string>
+    <string name="SendTwittHint">Got something to twitt?</string>
+    <string name="TwittBtnTxt">Twitt!</string>
+
+
+</resources>
