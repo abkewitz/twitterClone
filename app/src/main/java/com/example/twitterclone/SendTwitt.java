@@ -1,6 +1,7 @@
 package com.example.twitterclone;
 
 import android.os.Bundle;
+import android.text.Layout;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
@@ -33,6 +34,7 @@ public class SendTwitt extends AppCompatActivity {
     private ListView tweetsListView;
     private ListAdapter listAdapter;
     private ArrayList arrayList;
+    private Layout mainLayout;
     public void loadTwittsFunc(){
         tweetsListView= findViewById(R.id.twittList);
         final ArrayList<HashMap<String,String>> twittList=new ArrayList<>();
