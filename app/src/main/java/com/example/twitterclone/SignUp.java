@@ -82,7 +82,6 @@ public class SignUp extends AppCompatActivity  {
                    //edtTextName.setText("");
                     AppMainIcon.setVisibility(View.GONE);
                     nameHintTxt.setVisibility(View.GONE);
-
                 }
                  return false; // return is important...
             }
